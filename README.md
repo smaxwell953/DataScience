@@ -8,5 +8,4 @@
   <li>Time in Congress/Age</li>
   <li>Ticket-Splitting</li>
   <li></li>
-  <li></li>
   </ol>
