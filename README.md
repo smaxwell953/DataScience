@@ -7,5 +7,4 @@
   <li>Election Data</li>
   <li>Time in Congress/Age</li>
   <li>Ticket-Splitting</li>
-  <li></li>
-  </ol>
+    </ol>
