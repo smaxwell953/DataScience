@@ -6,5 +6,5 @@
   <li>Vegetables: https://www.ers.usda.gov/data-products/vegetables-and-pulses-data/selected-weekly-vegetable-movement-and-price/</li>
   <li>Election Data</li>
   <li>Time in Congress/Age</li>
-  <li>Ticket-Splitting </li> 
+  <li>Ticket-Splitting</li> 
 </ol>
