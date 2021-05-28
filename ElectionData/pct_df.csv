@@ -1,0 +1,1908 @@
+Year,County,County %
+1892,San Francisco,21.67
+1892,Los Angeles,8.45
+1892,Alameda,6.85
+1892,Santa Clara,3.85
+1892,Sacramento,3.31
+1892,Fresno,3.02
+1892,San Diego,2.86
+1892,San Bernardino,2.81
+1892,San Joaquin,2.61
+1892,Sonoma,2.58
+1892,Tulare,2.3
+1892,Humboldt,2.01
+1892,Solano,1.81
+1892,Butte,1.73
+1892,Santa Cruz,1.53
+1892,Monterey,1.52
+1892,Nevada,1.52
+1892,Mendocino,1.51
+1892,San Luis Obispo,1.39
+1892,Santa Barbara,1.31
+1892,Placer,1.31
+1892,Napa,1.29
+1892,Yolo,1.25
+1892,Siskiyou,1.2
+1892,Contra Costa,1.17
+1892,Orange,1.08
+1892,Shasta,1.07
+1892,Ventura,1.02
+1892,Calaveras,1.01
+1892,El Dorado,0.98
+1892,Amador,0.97
+1892,Stanislaus,0.95
+1892,Kern,0.93
+1892,Yuba,0.88
+1892,Tehama,0.83
+1892,Marin,0.82
+1892,San Mateo,0.8
+1892,Colusa,0.77
+1892,Merced,0.73
+1892,Tuolumne,0.68
+1892,San Benito,0.62
+1892,Sutter,0.58
+1892,Glenn,0.58
+1892,Lake,0.53
+1892,Sierra,0.51
+1892,Plumas,0.46
+1892,Modoc,0.42
+1892,Lassen,0.42
+1892,Mariposa,0.38
+1892,Trinity,0.36
+1892,Inyo,0.3
+1892,Del Norte,0.24
+1892,Mono,0.2
+1892,Alpine,0.03
+1896,San Francisco,21.14
+1896,Los Angeles,11.41
+1896,Alameda,7.45
+1896,Santa Clara,3.95
+1896,Sacramento,3.23
+1896,Sonoma,2.62
+1896,San Diego,2.6
+1896,San Joaquin,2.4
+1896,Fresno,2.24
+1896,San Bernardino,1.95
+1896,Humboldt,1.9
+1896,Solano,1.7
+1896,Nevada,1.49
+1896,Butte,1.44
+1896,Mendocino,1.43
+1896,Tulare,1.4
+1896,Monterey,1.37
+1896,Santa Cruz,1.37
+1896,Santa Barbara,1.36
+1896,Riverside,1.3
+1896,San Luis Obispo,1.28
+1896,Orange,1.27
+1896,Placer,1.23
+1896,Napa,1.19
+1896,Yolo,1.11
+1896,Siskiyou,1.1
+1896,Contra Costa,1.1
+1896,Kern,1.09
+1896,Shasta,1.08
+1896,Ventura,1.03
+1896,Calaveras,1.03
+1896,El Dorado,0.96
+1896,San Mateo,0.88
+1896,Amador,0.86
+1896,Stanislaus,0.82
+1896,Marin,0.79
+1896,Yuba,0.75
+1896,Tuolumne,0.73
+1896,Tehama,0.72
+1896,Colusa,0.63
+1896,Merced,0.61
+1896,San Benito,0.57
+1896,Kings,0.52
+1896,Sutter,0.51
+1896,Mariposa,0.48
+1896,Lake,0.48
+1896,Glenn,0.44
+1896,Sierra,0.42
+1896,Plumas,0.42
+1896,Madera,0.41
+1896,Trinity,0.36
+1896,Lassen,0.32
+1896,Modoc,0.3
+1896,Inyo,0.28
+1896,Del Norte,0.23
+1896,Mono,0.2
+1896,Alpine,0.03
+1900,San Francisco,20.86
+1900,Los Angeles,11.5
+1900,Alameda,7.31
+1900,Santa Clara,4.03
+1900,Sacramento,3.32
+1900,Sonoma,2.68
+1900,Fresno,2.5
+1900,San Diego,2.28
+1900,San Joaquin,2.11
+1900,San Bernardino,1.98
+1900,Humboldt,1.94
+1900,Solano,1.86
+1900,Butte,1.46
+1900,Nevada,1.45
+1900,Tulare,1.4
+1900,Orange,1.39
+1900,Mendocino,1.36
+1900,Santa Cruz,1.35
+1900,Monterey,1.29
+1900,Riverside,1.26
+1900,Santa Barbara,1.25
+1900,Contra Costa,1.25
+1900,Kern,1.24
+1900,Shasta,1.24
+1900,Placer,1.21
+1900,Siskiyou,1.2
+1900,Napa,1.17
+1900,San Luis Obispo,1.13
+1900,Yolo,1.09
+1900,Ventura,1.05
+1900,Calaveras,0.97
+1900,Tuolumne,0.96
+1900,Marin,0.87
+1900,Amador,0.87
+1900,El Dorado,0.87
+1900,San Mateo,0.86
+1900,Stanislaus,0.8
+1900,Tehama,0.79
+1900,Yuba,0.72
+1900,Kings,0.66
+1900,Merced,0.64
+1900,Colusa,0.59
+1900,Madera,0.51
+1900,San Benito,0.51
+1900,Sutter,0.49
+1900,Lake,0.46
+1900,Glenn,0.41
+1900,Mariposa,0.41
+1900,Sierra,0.38
+1900,Plumas,0.36
+1900,Trinity,0.34
+1900,Modoc,0.33
+1900,Lassen,0.31
+1900,Inyo,0.31
+1900,Del Norte,0.21
+1900,Mono,0.18
+1900,Alpine,0.03
+1904,San Francisco,19.73
+1904,Los Angeles,14.74
+1904,Alameda,8.18
+1904,Santa Clara,3.78
+1904,Sacramento,3.08
+1904,Fresno,2.67
+1904,Sonoma,2.58
+1904,San Joaquin,2.2
+1904,San Diego,2.18
+1904,Humboldt,2.03
+1904,San Bernardino,2.01
+1904,Solano,1.56
+1904,Butte,1.43
+1904,Mendocino,1.42
+1904,Kern,1.38
+1904,Tulare,1.38
+1904,Contra Costa,1.37
+1904,Orange,1.35
+1904,Santa Cruz,1.31
+1904,Santa Barbara,1.28
+1904,Monterey,1.25
+1904,Riverside,1.22
+1904,Napa,1.16
+1904,Nevada,1.16
+1904,San Luis Obispo,1.11
+1904,Siskiyou,1.06
+1904,Shasta,1.04
+1904,Placer,0.99
+1904,Yolo,0.99
+1904,San Mateo,0.95
+1904,Marin,0.94
+1904,Ventura,0.94
+1904,Stanislaus,0.83
+1904,Calaveras,0.81
+1904,Tuolumne,0.79
+1904,Amador,0.71
+1904,El Dorado,0.7
+1904,Tehama,0.66
+1904,Merced,0.6
+1904,Yuba,0.59
+1904,Colusa,0.57
+1904,Kings,0.57
+1904,San Benito,0.49
+1904,Glenn,0.46
+1904,Madera,0.46
+1904,Lake,0.43
+1904,Sutter,0.43
+1904,Sierra,0.37
+1904,Plumas,0.33
+1904,Mariposa,0.32
+1904,Modoc,0.31
+1904,Lassen,0.28
+1904,Trinity,0.26
+1904,Inyo,0.24
+1904,Del Norte,0.22
+1904,Mono,0.12
+1904,Alpine,0.03
+1908,Los Angeles,18.9
+1908,San Francisco,15.55
+1908,Alameda,8.61
+1908,Santa Clara,3.49
+1908,Fresno,3.24
+1908,Sacramento,3.06
+1908,Sonoma,2.44
+1908,San Diego,2.43
+1908,San Bernardino,2.31
+1908,San Joaquin,2.21
+1908,Humboldt,1.68
+1908,Orange,1.56
+1908,Butte,1.52
+1908,Tulare,1.48
+1908,Solano,1.47
+1908,Riverside,1.46
+1908,Contra Costa,1.42
+1908,Santa Cruz,1.36
+1908,Kern,1.29
+1908,Mendocino,1.28
+1908,Santa Barbara,1.27
+1908,Monterey,1.2
+1908,San Mateo,1.18
+1908,Napa,1.05
+1908,Marin,1.04
+1908,Shasta,1.03
+1908,San Luis Obispo,1.02
+1908,Siskiyou,0.99
+1908,Placer,0.94
+1908,Nevada,0.93
+1908,Stanislaus,0.93
+1908,Yolo,0.9
+1908,Ventura,0.85
+1908,Merced,0.64
+1908,Calaveras,0.62
+1908,Yuba,0.59
+1908,Kings,0.58
+1908,Tehama,0.58
+1908,El Dorado,0.57
+1908,Tuolumne,0.55
+1908,Amador,0.52
+1908,Imperial,0.49
+1908,Colusa,0.49
+1908,San Benito,0.45
+1908,Sutter,0.42
+1908,Lake,0.38
+1908,Inyo,0.37
+1908,Glenn,0.36
+1908,Madera,0.34
+1908,Modoc,0.32
+1908,Plumas,0.29
+1908,Sierra,0.28
+1908,Lassen,0.26
+1908,Mariposa,0.25
+1908,Trinity,0.23
+1908,Del Norte,0.2
+1908,Mono,0.1
+1908,Alpine,0.02
+1912,Los Angeles,24.38
+1912,San Francisco,14.92
+1912,Alameda,9.8
+1912,Santa Clara,3.41
+1912,San Diego,3.2
+1912,Fresno,3.05
+1912,Sacramento,2.83
+1912,San Bernardino,2.26
+1912,Sonoma,2.09
+1912,San Joaquin,2.03
+1912,Orange,1.68
+1912,Kern,1.59
+1912,Tulare,1.5
+1912,Riverside,1.49
+1912,Butte,1.3
+1912,Humboldt,1.26
+1912,Contra Costa,1.23
+1912,Solano,1.18
+1912,Stanislaus,1.17
+1912,Monterey,1.08
+1912,Santa Barbara,1.07
+1912,Santa Cruz,1.05
+1912,San Mateo,1.03
+1912,Marin,0.94
+1912,Napa,0.84
+1912,Mendocino,0.83
+1912,San Luis Obispo,0.82
+1912,Siskiyou,0.73
+1912,Ventura,0.71
+1912,Shasta,0.69
+1912,Placer,0.64
+1912,Merced,0.62
+1912,Nevada,0.59
+1912,Yolo,0.59
+1912,Kings,0.58
+1912,Tehama,0.5
+1912,Imperial,0.5
+1912,Calaveras,0.46
+1912,Colusa,0.41
+1912,El Dorado,0.4
+1912,Tuolumne,0.39
+1912,Yuba,0.39
+1912,San Benito,0.38
+1912,Amador,0.37
+1912,Madera,0.36
+1912,Glenn,0.36
+1912,Lake,0.32
+1912,Sutter,0.3
+1912,Plumas,0.26
+1912,Modoc,0.25
+1912,Inyo,0.24
+1912,Lassen,0.21
+1912,Sierra,0.17
+1912,Mariposa,0.17
+1912,Trinity,0.15
+1912,Del Norte,0.12
+1912,Mono,0.05
+1912,Alpine,0.01
+1916,Los Angeles,26.8
+1916,San Francisco,14.92
+1916,Alameda,10.22
+1916,San Diego,3.66
+1916,Santa Clara,3.27
+1916,Fresno,2.85
+1916,Sacramento,2.66
+1916,San Bernardino,2.36
+1916,San Joaquin,2.07
+1916,Sonoma,1.93
+1916,Orange,1.88
+1916,Kern,1.6
+1916,Tulare,1.56
+1916,Riverside,1.36
+1916,Contra Costa,1.3
+1916,Stanislaus,1.17
+1916,Humboldt,1.13
+1916,Santa Barbara,1.05
+1916,San Mateo,1.04
+1916,Solano,0.97
+1916,Butte,0.97
+1916,Santa Cruz,0.94
+1916,Marin,0.87
+1916,Monterey,0.8
+1916,Napa,0.75
+1916,Mendocino,0.75
+1916,Ventura,0.72
+1916,San Luis Obispo,0.71
+1916,Imperial,0.67
+1916,Siskiyou,0.6
+1916,Placer,0.58
+1916,Kings,0.56
+1916,Yolo,0.55
+1916,Shasta,0.54
+1916,Merced,0.52
+1916,Tehama,0.48
+1916,Nevada,0.45
+1916,Yuba,0.36
+1916,Madera,0.35
+1916,San Benito,0.33
+1916,Glenn,0.33
+1916,Colusa,0.32
+1916,Amador,0.31
+1916,El Dorado,0.3
+1916,Sutter,0.29
+1916,Tuolumne,0.29
+1916,Calaveras,0.29
+1916,Lassen,0.24
+1916,Lake,0.22
+1916,Modoc,0.21
+1916,Inyo,0.2
+1916,Plumas,0.18
+1916,Mariposa,0.14
+1916,Trinity,0.12
+1916,Del Norte,0.11
+1916,Sierra,0.1
+1916,Mono,0.03
+1916,Alpine,0.01
+1920,Los Angeles,27.22
+1920,San Francisco,15.57
+1920,Alameda,11.18
+1920,San Diego,3.28
+1920,Santa Clara,3.04
+1920,Fresno,2.79
+1920,Sacramento,2.55
+1920,San Bernardino,2.1
+1920,San Joaquin,2.08
+1920,Orange,1.89
+1920,Sonoma,1.64
+1920,Tulare,1.57
+1920,Kern,1.52
+1920,Contra Costa,1.5
+1920,Riverside,1.38
+1920,Stanislaus,1.21
+1920,Solano,1.16
+1920,Santa Barbara,1.09
+1920,San Mateo,1.08
+1920,Humboldt,0.99
+1920,Butte,0.87
+1920,Santa Cruz,0.86
+1920,Marin,0.83
+1920,Imperial,0.77
+1920,Monterey,0.75
+1920,Ventura,0.73
+1920,San Luis Obispo,0.71
+1920,Mendocino,0.71
+1920,Napa,0.66
+1920,Merced,0.58
+1920,Yolo,0.58
+1920,Placer,0.51
+1920,Siskiyou,0.51
+1920,Kings,0.5
+1920,Tehama,0.42
+1920,Shasta,0.36
+1920,Madera,0.34
+1920,Nevada,0.33
+1920,Glenn,0.32
+1920,San Benito,0.32
+1920,Yuba,0.3
+1920,Colusa,0.28
+1920,Sutter,0.28
+1920,El Dorado,0.27
+1920,Lassen,0.25
+1920,Inyo,0.24
+1920,Calaveras,0.24
+1920,Tuolumne,0.23
+1920,Amador,0.22
+1920,Del Norte,0.2
+1920,Lake,0.19
+1920,Mono,0.17
+1920,Modoc,0.17
+1920,Plumas,0.16
+1920,Trinity,0.1
+1920,Mariposa,0.09
+1920,Sierra,0.08
+1920,Alpine,0.01
+1924,Los Angeles,35.68
+1924,San Francisco,12.01
+1924,Alameda,10.33
+1924,San Diego,3.62
+1924,Fresno,2.77
+1924,Santa Clara,2.7
+1924,Sacramento,2.54
+1924,Orange,2.31
+1924,San Bernardino,2.19
+1924,San Joaquin,1.76
+1924,Kern,1.46
+1924,Tulare,1.46
+1924,Sonoma,1.33
+1924,Contra Costa,1.29
+1924,Riverside,1.21
+1924,San Mateo,1.15
+1924,Stanislaus,1.04
+1924,Santa Barbara,1.04
+1924,Humboldt,0.93
+1924,Marin,0.84
+1924,Butte,0.81
+1924,Solano,0.78
+1924,Santa Cruz,0.69
+1924,Ventura,0.68
+1924,San Luis Obispo,0.61
+1924,Monterey,0.61
+1924,Imperial,0.54
+1924,Merced,0.53
+1924,Napa,0.51
+1924,Mendocino,0.48
+1924,Placer,0.47
+1924,Siskiyou,0.47
+1924,Kings,0.44
+1924,Yolo,0.42
+1924,Shasta,0.36
+1924,Tehama,0.33
+1924,Yuba,0.3
+1924,Nevada,0.28
+1924,Madera,0.28
+1924,Glenn,0.25
+1924,Sutter,0.25
+1924,Tuolumne,0.23
+1924,El Dorado,0.23
+1924,San Benito,0.21
+1924,Lassen,0.21
+1924,Colusa,0.2
+1924,Calaveras,0.17
+1924,Inyo,0.16
+1924,Amador,0.15
+1924,Lake,0.14
+1924,Plumas,0.13
+1924,Modoc,0.13
+1924,Del Norte,0.08
+1924,Trinity,0.07
+1924,Mariposa,0.07
+1924,Sierra,0.06
+1924,Mono,0.03
+1924,Alpine,0.0
+1928,Los Angeles,40.7
+1928,San Francisco,10.88
+1928,Alameda,10.08
+1928,San Diego,3.96
+1928,Santa Clara,2.77
+1928,Sacramento,2.27
+1928,San Bernardino,2.18
+1928,Orange,2.14
+1928,Fresno,2.12
+1928,San Joaquin,1.52
+1928,San Mateo,1.36
+1928,Kern,1.3
+1928,Riverside,1.26
+1928,Contra Costa,1.24
+1928,Sonoma,1.2
+1928,Tulare,1.05
+1928,Santa Barbara,0.93
+1928,Stanislaus,0.89
+1928,Marin,0.76
+1928,Solano,0.75
+1928,Humboldt,0.73
+1928,Ventura,0.72
+1928,Santa Cruz,0.67
+1928,Monterey,0.64
+1928,Butte,0.58
+1928,San Luis Obispo,0.5
+1928,Napa,0.45
+1928,Imperial,0.45
+1928,Merced,0.43
+1928,Mendocino,0.42
+1928,Placer,0.41
+1928,Siskiyou,0.38
+1928,Yolo,0.35
+1928,Kings,0.32
+1928,Tehama,0.29
+1928,Shasta,0.25
+1928,Madera,0.24
+1928,Nevada,0.23
+1928,Sutter,0.23
+1928,Yuba,0.22
+1928,Glenn,0.21
+1928,Lassen,0.21
+1928,San Benito,0.19
+1928,Tuolumne,0.18
+1928,Colusa,0.17
+1928,El Dorado,0.15
+1928,Lake,0.15
+1928,Calaveras,0.13
+1928,Plumas,0.12
+1928,Inyo,0.12
+1928,Amador,0.12
+1928,Modoc,0.09
+1928,Del Norte,0.08
+1928,Mariposa,0.07
+1928,Trinity,0.05
+1928,Sierra,0.05
+1928,Mono,0.02
+1928,Alpine,0.0
+1932,Los Angeles,42.75
+1932,San Francisco,9.84
+1932,Alameda,9.01
+1932,San Diego,3.75
+1932,Santa Clara,2.54
+1932,Sacramento,2.31
+1932,San Bernardino,2.18
+1932,Orange,2.17
+1932,Fresno,2.05
+1932,San Joaquin,1.53
+1932,San Mateo,1.49
+1932,Contra Costa,1.29
+1932,Riverside,1.24
+1932,Kern,1.23
+1932,Sonoma,1.13
+1932,Tulare,1.1
+1932,Santa Barbara,1.03
+1932,Stanislaus,0.93
+1932,Ventura,0.82
+1932,Marin,0.75
+1932,Humboldt,0.71
+1932,Monterey,0.69
+1932,Santa Cruz,0.66
+1932,Butte,0.65
+1932,Solano,0.64
+1932,Imperial,0.57
+1932,San Luis Obispo,0.53
+1932,Merced,0.47
+1932,Napa,0.42
+1932,Mendocino,0.42
+1932,Siskiyou,0.4
+1932,Placer,0.38
+1932,Yolo,0.38
+1932,Kings,0.33
+1932,Tehama,0.26
+1932,Nevada,0.25
+1932,Shasta,0.25
+1932,Sutter,0.24
+1932,Madera,0.22
+1932,Yuba,0.2
+1932,Glenn,0.2
+1932,Lassen,0.19
+1932,El Dorado,0.18
+1932,Colusa,0.18
+1932,San Benito,0.17
+1932,Tuolumne,0.17
+1932,Lake,0.17
+1932,Amador,0.14
+1932,Plumas,0.12
+1932,Calaveras,0.11
+1932,Modoc,0.11
+1932,Inyo,0.1
+1932,Del Norte,0.09
+1932,Mariposa,0.09
+1932,Trinity,0.07
+1932,Sierra,0.05
+1932,Mono,0.03
+1932,Alpine,0.0
+1936,Los Angeles,42.84
+1936,San Francisco,10.04
+1936,Alameda,8.89
+1936,San Diego,3.86
+1936,Santa Clara,2.49
+1936,Sacramento,2.28
+1936,San Bernardino,2.16
+1936,Fresno,2.09
+1936,Orange,2.06
+1936,San Mateo,1.56
+1936,San Joaquin,1.51
+1936,Contra Costa,1.36
+1936,Kern,1.31
+1936,Riverside,1.29
+1936,Sonoma,1.09
+1936,Tulare,1.06
+1936,Santa Barbara,0.99
+1936,Stanislaus,0.92
+1936,Ventura,0.8
+1936,Monterey,0.76
+1936,Humboldt,0.72
+1936,Marin,0.7
+1936,Santa Cruz,0.68
+1936,Solano,0.65
+1936,Butte,0.6
+1936,San Luis Obispo,0.49
+1936,Merced,0.48
+1936,Imperial,0.47
+1936,Napa,0.39
+1936,Mendocino,0.39
+1936,Placer,0.39
+1936,Siskiyou,0.38
+1936,Kings,0.36
+1936,Yolo,0.33
+1936,Shasta,0.28
+1936,Nevada,0.27
+1936,Madera,0.23
+1936,Tehama,0.23
+1936,Sutter,0.22
+1936,Yuba,0.21
+1936,El Dorado,0.2
+1936,Lassen,0.2
+1936,Glenn,0.19
+1936,Tuolumne,0.17
+1936,Colusa,0.16
+1936,San Benito,0.16
+1936,Lake,0.14
+1936,Calaveras,0.13
+1936,Plumas,0.13
+1936,Amador,0.13
+1936,Modoc,0.11
+1936,Mariposa,0.1
+1936,Inyo,0.09
+1936,Del Norte,0.08
+1936,Trinity,0.08
+1936,Sierra,0.06
+1936,Mono,0.03
+1936,Alpine,0.01
+1940,Los Angeles,43.3
+1940,San Francisco,9.54
+1940,Alameda,8.21
+1940,San Diego,3.92
+1940,Santa Clara,2.49
+1940,Sacramento,2.31
+1940,Fresno,2.16
+1940,San Bernardino,2.11
+1940,Orange,1.99
+1940,San Mateo,1.74
+1940,Kern,1.59
+1940,San Joaquin,1.54
+1940,Contra Costa,1.53
+1940,Riverside,1.3
+1940,Tulare,1.1
+1940,Sonoma,0.99
+1940,Santa Barbara,0.97
+1940,Stanislaus,0.97
+1940,Monterey,0.82
+1940,Ventura,0.81
+1940,Santa Cruz,0.69
+1940,Marin,0.69
+1940,Humboldt,0.67
+1940,Solano,0.65
+1940,Butte,0.56
+1940,Merced,0.51
+1940,San Luis Obispo,0.49
+1940,Imperial,0.45
+1940,Napa,0.39
+1940,Shasta,0.39
+1940,Mendocino,0.38
+1940,Placer,0.38
+1940,Kings,0.38
+1940,Siskiyou,0.37
+1940,Yolo,0.33
+1940,Nevada,0.27
+1940,Madera,0.26
+1940,Sutter,0.22
+1940,Yuba,0.22
+1940,Tehama,0.2
+1940,El Dorado,0.19
+1940,Lassen,0.19
+1940,Glenn,0.17
+1940,Tuolumne,0.17
+1940,San Benito,0.15
+1940,Plumas,0.15
+1940,Colusa,0.14
+1940,Amador,0.13
+1940,Lake,0.13
+1940,Calaveras,0.12
+1940,Modoc,0.11
+1940,Inyo,0.1
+1940,Mariposa,0.09
+1940,Del Norte,0.07
+1940,Trinity,0.07
+1940,Sierra,0.05
+1940,Mono,0.03
+1940,Alpine,0.01
+1944,Los Angeles,44.34
+1944,San Francisco,9.83
+1944,Alameda,8.41
+1944,San Diego,4.71
+1944,Santa Clara,2.38
+1944,Contra Costa,2.14
+1944,Sacramento,2.1
+1944,San Bernardino,2.09
+1944,San Mateo,1.95
+1944,Orange,1.9
+1944,Fresno,1.8
+1944,San Joaquin,1.46
+1944,Kern,1.33
+1944,Riverside,1.21
+1944,Solano,0.98
+1944,Sonoma,0.92
+1944,Tulare,0.91
+1944,Stanislaus,0.85
+1944,Santa Barbara,0.83
+1944,Marin,0.8
+1944,Ventura,0.78
+1944,Monterey,0.76
+1944,Humboldt,0.61
+1944,Santa Cruz,0.58
+1944,Butte,0.48
+1944,Merced,0.45
+1944,San Luis Obispo,0.45
+1944,Napa,0.42
+1944,Placer,0.32
+1944,Imperial,0.32
+1944,Mendocino,0.29
+1944,Yolo,0.29
+1944,Siskiyou,0.29
+1944,Shasta,0.28
+1944,Kings,0.28
+1944,Madera,0.21
+1944,Sutter,0.18
+1944,Nevada,0.17
+1944,Tehama,0.17
+1944,Lassen,0.16
+1944,Yuba,0.16
+1944,Glenn,0.14
+1944,El Dorado,0.14
+1944,Tuolumne,0.13
+1944,San Benito,0.12
+1944,Plumas,0.11
+1944,Lake,0.11
+1944,Calaveras,0.1
+1944,Colusa,0.1
+1944,Amador,0.09
+1944,Inyo,0.09
+1944,Modoc,0.08
+1944,Mariposa,0.06
+1944,Del Norte,0.05
+1944,Trinity,0.04
+1944,Sierra,0.03
+1944,Mono,0.02
+1944,Alpine,0.0
+1948,Los Angeles,42.99
+1948,San Francisco,8.72
+1948,Alameda,8.04
+1948,San Diego,5.11
+1948,Santa Clara,2.47
+1948,San Bernardino,2.38
+1948,Sacramento,2.31
+1948,Contra Costa,2.27
+1948,San Mateo,2.15
+1948,Fresno,2.03
+1948,Orange,1.98
+1948,San Joaquin,1.48
+1948,Kern,1.46
+1948,Riverside,1.44
+1948,Sonoma,0.99
+1948,Tulare,0.97
+1948,Stanislaus,0.95
+1948,Solano,0.91
+1948,Santa Barbara,0.86
+1948,Monterey,0.85
+1948,Ventura,0.82
+1948,Marin,0.82
+1948,Santa Cruz,0.66
+1948,Humboldt,0.58
+1948,Butte,0.55
+1948,San Luis Obispo,0.48
+1948,Merced,0.45
+1948,Napa,0.41
+1948,Placer,0.38
+1948,Yolo,0.32
+1948,Mendocino,0.31
+1948,Siskiyou,0.31
+1948,Shasta,0.31
+1948,Kings,0.29
+1948,Imperial,0.29
+1948,Madera,0.22
+1948,Nevada,0.21
+1948,Sutter,0.19
+1948,Yuba,0.18
+1948,El Dorado,0.17
+1948,Tehama,0.16
+1948,Glenn,0.14
+1948,Tuolumne,0.14
+1948,Lassen,0.14
+1948,Lake,0.13
+1948,Plumas,0.13
+1948,San Benito,0.12
+1948,Inyo,0.1
+1948,Calaveras,0.1
+1948,Colusa,0.1
+1948,Amador,0.1
+1948,Modoc,0.08
+1948,Del Norte,0.07
+1948,Mariposa,0.06
+1948,Trinity,0.05
+1948,Sierra,0.03
+1948,Mono,0.02
+1948,Alpine,0.0
+1952,Los Angeles,42.58
+1952,Alameda,7.18
+1952,San Francisco,7.01
+1952,San Diego,5.49
+1952,Santa Clara,2.88
+1952,San Mateo,2.72
+1952,Contra Costa,2.65
+1952,Sacramento,2.57
+1952,San Bernardino,2.54
+1952,Orange,2.16
+1952,Fresno,2.09
+1952,Kern,1.58
+1952,San Joaquin,1.53
+1952,Riverside,1.49
+1952,Sonoma,1.01
+1952,Stanislaus,0.99
+1952,Tulare,0.99
+1952,Monterey,0.92
+1952,Santa Barbara,0.9
+1952,Ventura,0.88
+1952,Marin,0.87
+1952,Solano,0.86
+1952,Santa Cruz,0.68
+1952,Humboldt,0.62
+1952,Butte,0.57
+1952,San Luis Obispo,0.51
+1952,Merced,0.47
+1952,Napa,0.43
+1952,Placer,0.36
+1952,Mendocino,0.34
+1952,Shasta,0.33
+1952,Yolo,0.33
+1952,Imperial,0.33
+1952,Siskiyou,0.29
+1952,Kings,0.29
+1952,Madera,0.24
+1952,Sutter,0.2
+1952,Nevada,0.2
+1952,Yuba,0.18
+1952,Tehama,0.17
+1952,El Dorado,0.16
+1952,Lassen,0.14
+1952,Tuolumne,0.13
+1952,Glenn,0.13
+1952,Plumas,0.12
+1952,Lake,0.12
+1952,San Benito,0.11
+1952,Inyo,0.1
+1952,Amador,0.09
+1952,Calaveras,0.09
+1952,Colusa,0.09
+1952,Del Norte,0.09
+1952,Modoc,0.08
+1952,Trinity,0.06
+1952,Mariposa,0.06
+1952,Sierra,0.03
+1952,Mono,0.02
+1952,Alpine,0.0
+1956,Los Angeles,41.63
+1956,Alameda,6.73
+1956,San Francisco,6.16
+1956,San Diego,5.55
+1956,Santa Clara,3.27
+1956,Orange,3.11
+1956,San Mateo,3.0
+1956,San Bernardino,2.77
+1956,Sacramento,2.75
+1956,Contra Costa,2.69
+1956,Fresno,2.18
+1956,Riverside,1.67
+1956,Kern,1.65
+1956,San Joaquin,1.49
+1956,Stanislaus,1.0
+1956,Sonoma,0.99
+1956,Ventura,0.97
+1956,Marin,0.94
+1956,Monterey,0.91
+1956,Tulare,0.91
+1956,Santa Barbara,0.89
+1956,Solano,0.78
+1956,Humboldt,0.66
+1956,Santa Cruz,0.64
+1956,Butte,0.58
+1956,San Luis Obispo,0.51
+1956,Napa,0.45
+1956,Merced,0.45
+1956,Shasta,0.37
+1956,Placer,0.36
+1956,Yolo,0.36
+1956,Imperial,0.34
+1956,Mendocino,0.33
+1956,Kings,0.27
+1956,Siskiyou,0.25
+1956,Madera,0.23
+1956,Sutter,0.18
+1956,Nevada,0.17
+1956,Tehama,0.17
+1956,El Dorado,0.16
+1956,Yuba,0.16
+1956,Tuolumne,0.13
+1956,Glenn,0.12
+1956,Lake,0.11
+1956,Lassen,0.11
+1956,Inyo,0.1
+1956,San Benito,0.1
+1956,Del Norte,0.1
+1956,Plumas,0.1
+1956,Colusa,0.09
+1956,Calaveras,0.09
+1956,Amador,0.08
+1956,Modoc,0.07
+1956,Mariposa,0.05
+1956,Trinity,0.05
+1956,Sierra,0.02
+1956,Mono,0.02
+1956,Alpine,0.0
+1960,Los Angeles,40.48
+1960,Alameda,6.18
+1960,San Diego,6.08
+1960,San Francisco,5.26
+1960,Orange,4.42
+1960,Santa Clara,3.84
+1960,San Mateo,3.11
+1960,Sacramento,2.99
+1960,San Bernardino,2.94
+1960,Contra Costa,2.72
+1960,Fresno,2.01
+1960,Riverside,1.8
+1960,Kern,1.61
+1960,San Joaquin,1.41
+1960,Ventura,1.09
+1960,Santa Barbara,1.05
+1960,Marin,1.01
+1960,Sonoma,0.98
+1960,Stanislaus,0.94
+1960,Monterey,0.91
+1960,Tulare,0.84
+1960,Solano,0.71
+1960,Santa Cruz,0.64
+1960,Humboldt,0.59
+1960,Butte,0.56
+1960,San Luis Obispo,0.51
+1960,Napa,0.44
+1960,Merced,0.42
+1960,Placer,0.37
+1960,Shasta,0.37
+1960,Yolo,0.35
+1960,Imperial,0.3
+1960,Mendocino,0.29
+1960,Kings,0.25
+1960,Siskiyou,0.22
+1960,Madera,0.22
+1960,El Dorado,0.19
+1960,Sutter,0.18
+1960,Tehama,0.17
+1960,Nevada,0.16
+1960,Yuba,0.16
+1960,Tuolumne,0.12
+1960,Lake,0.11
+1960,Glenn,0.11
+1960,Del Norte,0.1
+1960,San Benito,0.09
+1960,Lassen,0.09
+1960,Plumas,0.08
+1960,Amador,0.08
+1960,Calaveras,0.08
+1960,Inyo,0.08
+1960,Colusa,0.07
+1960,Trinity,0.06
+1960,Modoc,0.05
+1960,Mariposa,0.05
+1960,Mono,0.03
+1960,Sierra,0.02
+1960,Alpine,0.0
+1964,Los Angeles,38.69
+1964,Alameda,6.05
+1964,San Diego,6.04
+1964,Orange,5.68
+1964,San Francisco,4.59
+1964,Santa Clara,4.54
+1964,Sacramento,3.23
+1964,San Mateo,3.11
+1964,San Bernardino,3.05
+1964,Contra Costa,2.53
+1964,Riverside,2.01
+1964,Fresno,1.93
+1964,Kern,1.55
+1964,Ventura,1.39
+1964,San Joaquin,1.36
+1964,Santa Barbara,1.23
+1964,Marin,1.07
+1964,Sonoma,1.02
+1964,Stanislaus,0.92
+1964,Monterey,0.92
+1964,Tulare,0.8
+1964,Solano,0.71
+1964,Santa Cruz,0.65
+1964,Butte,0.57
+1964,Humboldt,0.55
+1964,San Luis Obispo,0.53
+1964,Napa,0.44
+1964,Merced,0.4
+1964,Shasta,0.4
+1964,Placer,0.39
+1964,Yolo,0.37
+1964,Imperial,0.3
+1964,Kings,0.27
+1964,Mendocino,0.26
+1964,El Dorado,0.21
+1964,Siskiyou,0.2
+1964,Sutter,0.2
+1964,Madera,0.2
+1964,Yuba,0.17
+1964,Nevada,0.16
+1964,Tehama,0.16
+1964,Lake,0.12
+1964,Tuolumne,0.11
+1964,Glenn,0.1
+1964,San Benito,0.09
+1964,Lassen,0.09
+1964,Calaveras,0.08
+1964,Inyo,0.08
+1964,Del Norte,0.08
+1964,Plumas,0.08
+1964,Amador,0.07
+1964,Colusa,0.07
+1964,Trinity,0.05
+1964,Modoc,0.05
+1964,Mariposa,0.04
+1964,Mono,0.03
+1964,Sierra,0.02
+1964,Alpine,0.0
+1968,Los Angeles,36.65
+1968,Orange,6.88
+1968,San Diego,6.41
+1968,Alameda,5.62
+1968,Santa Clara,4.94
+1968,San Francisco,4.14
+1968,Sacramento,3.22
+1968,San Mateo,3.11
+1968,San Bernardino,3.08
+1968,Contra Costa,3.02
+1968,Riverside,2.17
+1968,Fresno,1.89
+1968,Kern,1.6
+1968,Ventura,1.6
+1968,San Joaquin,1.36
+1968,Santa Barbara,1.29
+1968,Marin,1.14
+1968,Sonoma,1.08
+1968,Monterey,0.93
+1968,Stanislaus,0.9
+1968,Tulare,0.77
+1968,Solano,0.7
+1968,Santa Cruz,0.69
+1968,Butte,0.54
+1968,San Luis Obispo,0.52
+1968,Humboldt,0.5
+1968,Napa,0.45
+1968,Yolo,0.4
+1968,Placer,0.4
+1968,Shasta,0.4
+1968,Merced,0.39
+1968,Imperial,0.28
+1968,Kings,0.25
+1968,Mendocino,0.25
+1968,El Dorado,0.21
+1968,Sutter,0.2
+1968,Madera,0.2
+1968,Siskiyou,0.19
+1968,Nevada,0.16
+1968,Tehama,0.15
+1968,Yuba,0.15
+1968,Tuolumne,0.13
+1968,Lake,0.13
+1968,Glenn,0.1
+1968,San Benito,0.09
+1968,Lassen,0.09
+1968,Inyo,0.09
+1968,Calaveras,0.08
+1968,Plumas,0.08
+1968,Amador,0.07
+1968,Del Norte,0.07
+1968,Colusa,0.06
+1968,Trinity,0.05
+1968,Modoc,0.05
+1968,Mariposa,0.04
+1968,Mono,0.03
+1968,Sierra,0.02
+1968,Alpine,0.0
+1972,Los Angeles,33.82
+1972,Orange,7.85
+1972,San Diego,7.19
+1972,Alameda,5.63
+1972,Santa Clara,5.46
+1972,San Francisco,3.64
+1972,Sacramento,3.44
+1972,Contra Costa,3.07
+1972,San Mateo,3.06
+1972,San Bernardino,2.89
+1972,Riverside,2.23
+1972,Fresno,1.87
+1972,Ventura,1.8
+1972,Santa Barbara,1.45
+1972,Kern,1.42
+1972,San Joaquin,1.33
+1972,Sonoma,1.26
+1972,Marin,1.24
+1972,Monterey,0.98
+1972,Stanislaus,0.92
+1972,Santa Cruz,0.83
+1972,Tulare,0.72
+1972,Solano,0.69
+1972,San Luis Obispo,0.61
+1972,Butte,0.6
+1972,Humboldt,0.55
+1972,Yolo,0.51
+1972,Napa,0.47
+1972,Placer,0.44
+1972,Shasta,0.43
+1972,Merced,0.39
+1972,Imperial,0.27
+1972,Mendocino,0.26
+1972,El Dorado,0.25
+1972,Kings,0.22
+1972,Sutter,0.2
+1972,Madera,0.18
+1972,Siskiyou,0.18
+1972,Nevada,0.17
+1972,Tehama,0.15
+1972,Yuba,0.14
+1972,Lake,0.14
+1972,Tuolumne,0.13
+1972,Glenn,0.09
+1972,Inyo,0.09
+1972,Lassen,0.09
+1972,Calaveras,0.08
+1972,Amador,0.08
+1972,San Benito,0.08
+1972,Plumas,0.08
+1972,Del Norte,0.07
+1972,Colusa,0.06
+1972,Mariposa,0.05
+1972,Trinity,0.04
+1972,Mono,0.04
+1972,Modoc,0.04
+1972,Sierra,0.02
+1972,Alpine,0.01
+1976,Los Angeles,31.25
+1976,Orange,8.36
+1976,San Diego,8.06
+1976,Santa Clara,5.63
+1976,Alameda,5.18
+1976,Sacramento,3.51
+1976,San Francisco,3.26
+1976,Contra Costa,3.26
+1976,San Mateo,2.95
+1976,San Bernardino,2.91
+1976,Riverside,2.52
+1976,Ventura,1.98
+1976,Fresno,1.92
+1976,Santa Barbara,1.52
+1976,Kern,1.41
+1976,Sonoma,1.35
+1976,San Joaquin,1.29
+1976,Marin,1.29
+1976,Monterey,1.02
+1976,Santa Cruz,0.94
+1976,Stanislaus,0.93
+1976,Solano,0.78
+1976,Tulare,0.74
+1976,Butte,0.7
+1976,San Luis Obispo,0.69
+1976,Yolo,0.55
+1976,Humboldt,0.55
+1976,Napa,0.51
+1976,Placer,0.51
+1976,Shasta,0.48
+1976,Merced,0.41
+1976,El Dorado,0.33
+1976,Mendocino,0.27
+1976,Imperial,0.27
+1976,Kings,0.21
+1976,Sutter,0.21
+1976,Nevada,0.21
+1976,Madera,0.19
+1976,Siskiyou,0.19
+1976,Tehama,0.17
+1976,Tuolumne,0.17
+1976,Lake,0.16
+1976,Yuba,0.16
+1976,Calaveras,0.1
+1976,Glenn,0.1
+1976,Amador,0.1
+1976,Inyo,0.09
+1976,Lassen,0.09
+1976,Plumas,0.08
+1976,San Benito,0.08
+1976,Del Norte,0.07
+1976,Colusa,0.07
+1976,Trinity,0.06
+1976,Mariposa,0.06
+1976,Modoc,0.05
+1976,Mono,0.04
+1976,Sierra,0.02
+1976,Alpine,0.01
+1980,Los Angeles,28.42
+1980,Orange,9.09
+1980,San Diego,8.35
+1980,Santa Clara,5.56
+1980,Alameda,4.86
+1980,Sacramento,3.75
+1980,San Bernardino,3.38
+1980,Contra Costa,3.35
+1980,San Francisco,2.96
+1980,Riverside,2.83
+1980,San Mateo,2.78
+1980,Ventura,2.22
+1980,Fresno,1.88
+1980,Santa Barbara,1.5
+1980,Sonoma,1.47
+1980,Kern,1.42
+1980,San Joaquin,1.36
+1980,Marin,1.26
+1980,Monterey,1.01
+1980,Santa Cruz,1.0
+1980,Stanislaus,0.98
+1980,Solano,0.94
+1980,Tulare,0.83
+1980,San Luis Obispo,0.81
+1980,Butte,0.77
+1980,Placer,0.6
+1980,Yolo,0.58
+1980,Humboldt,0.57
+1980,Shasta,0.55
+1980,Napa,0.51
+1980,Merced,0.43
+1980,El Dorado,0.42
+1980,Mendocino,0.33
+1980,Nevada,0.31
+1980,Imperial,0.25
+1980,Madera,0.23
+1980,Sutter,0.22
+1980,Kings,0.22
+1980,Siskiyou,0.19
+1980,Lake,0.19
+1980,Tuolumne,0.19
+1980,Tehama,0.18
+1980,Yuba,0.16
+1980,Calaveras,0.12
+1980,Amador,0.11
+1980,Plumas,0.1
+1980,Lassen,0.1
+1980,Glenn,0.1
+1980,San Benito,0.09
+1980,Inyo,0.09
+1980,Del Norte,0.08
+1980,Mariposa,0.07
+1980,Trinity,0.06
+1980,Colusa,0.06
+1980,Modoc,0.05
+1980,Mono,0.04
+1980,Sierra,0.02
+1980,Alpine,0.01
+1984,Los Angeles,27.49
+1984,Orange,8.94
+1984,San Diego,8.09
+1984,Santa Clara,5.54
+1984,Alameda,5.06
+1984,Sacramento,3.88
+1984,San Bernardino,3.61
+1984,Contra Costa,3.33
+1984,San Francisco,3.02
+1984,Riverside,3.02
+1984,San Mateo,2.74
+1984,Ventura,2.32
+1984,Fresno,2.03
+1984,Sonoma,1.57
+1984,Kern,1.53
+1984,Santa Barbara,1.5
+1984,San Joaquin,1.44
+1984,Marin,1.22
+1984,Monterey,1.03
+1984,Solano,1.0
+1984,Stanislaus,0.99
+1984,Santa Cruz,0.97
+1984,Tulare,0.84
+1984,San Luis Obispo,0.81
+1984,Butte,0.76
+1984,Placer,0.64
+1984,Humboldt,0.57
+1984,Shasta,0.56
+1984,Yolo,0.54
+1984,Napa,0.48
+1984,Merced,0.45
+1984,El Dorado,0.45
+1984,Nevada,0.33
+1984,Mendocino,0.33
+1984,Madera,0.24
+1984,Imperial,0.23
+1984,Kings,0.22
+1984,Sutter,0.21
+1984,Lake,0.21
+1984,Siskiyou,0.19
+1984,Tehama,0.19
+1984,Tuolumne,0.19
+1984,Yuba,0.16
+1984,Amador,0.12
+1984,Calaveras,0.12
+1984,Plumas,0.1
+1984,San Benito,0.1
+1984,Lassen,0.09
+1984,Inyo,0.09
+1984,Glenn,0.09
+1984,Mariposa,0.07
+1984,Del Norte,0.07
+1984,Trinity,0.06
+1984,Modoc,0.05
+1984,Colusa,0.05
+1984,Mono,0.04
+1984,Sierra,0.02
+1984,Alpine,0.0
+1988,Los Angeles,26.75
+1988,San Diego,8.79
+1988,Orange,8.75
+1988,Santa Clara,5.48
+1988,Alameda,4.84
+1988,Sacramento,4.0
+1988,San Bernardino,3.96
+1988,Riverside,3.4
+1988,Contra Costa,3.35
+1988,San Francisco,2.81
+1988,San Mateo,2.57
+1988,Ventura,2.42
+1988,Fresno,1.92
+1988,Sonoma,1.63
+1988,Kern,1.49
+1988,Santa Barbara,1.45
+1988,San Joaquin,1.4
+1988,Marin,1.19
+1988,Solano,1.07
+1988,Santa Cruz,1.04
+1988,Monterey,1.02
+1988,Stanislaus,0.98
+1988,San Luis Obispo,0.84
+1988,Tulare,0.8
+1988,Butte,0.72
+1988,Placer,0.71
+1988,Shasta,0.55
+1988,Yolo,0.54
+1988,Humboldt,0.53
+1988,El Dorado,0.51
+1988,Napa,0.47
+1988,Merced,0.43
+1988,Nevada,0.37
+1988,Mendocino,0.31
+1988,Madera,0.25
+1988,Imperial,0.24
+1988,Kings,0.22
+1988,Sutter,0.21
+1988,Lake,0.2
+1988,Tuolumne,0.2
+1988,Tehama,0.18
+1988,Siskiyou,0.18
+1988,Yuba,0.15
+1988,Calaveras,0.14
+1988,Amador,0.12
+1988,San Benito,0.1
+1988,Plumas,0.09
+1988,Lassen,0.09
+1988,Inyo,0.08
+1988,Glenn,0.08
+1988,Del Norte,0.08
+1988,Mariposa,0.07
+1988,Trinity,0.06
+1988,Colusa,0.05
+1988,Mono,0.04
+1988,Modoc,0.04
+1988,Sierra,0.02
+1988,Alpine,0.01
+1992,Los Angeles,24.73
+1992,San Diego,8.86
+1992,Orange,8.74
+1992,Santa Clara,5.41
+1992,Alameda,4.76
+1992,San Bernardino,4.26
+1992,Sacramento,4.07
+1992,Riverside,3.87
+1992,Contra Costa,3.44
+1992,San Francisco,2.89
+1992,San Mateo,2.48
+1992,Ventura,2.4
+1992,Fresno,1.97
+1992,Sonoma,1.78
+1992,Kern,1.61
+1992,Santa Barbara,1.46
+1992,San Joaquin,1.39
+1992,Solano,1.19
+1992,Marin,1.17
+1992,Stanislaus,1.15
+1992,Monterey,1.05
+1992,Santa Cruz,1.02
+1992,San Luis Obispo,0.94
+1992,Placer,0.82
+1992,Tulare,0.8
+1992,Butte,0.76
+1992,Shasta,0.61
+1992,El Dorado,0.58
+1992,Yolo,0.56
+1992,Humboldt,0.54
+1992,Napa,0.48
+1992,Merced,0.44
+1992,Nevada,0.4
+1992,Mendocino,0.33
+1992,Madera,0.27
+1992,Imperial,0.23
+1992,Kings,0.23
+1992,Sutter,0.23
+1992,Tuolumne,0.22
+1992,Lake,0.21
+1992,Tehama,0.19
+1992,Siskiyou,0.19
+1992,Calaveras,0.15
+1992,Yuba,0.15
+1992,Amador,0.14
+1992,San Benito,0.11
+1992,Plumas,0.09
+1992,Lassen,0.09
+1992,Inyo,0.08
+1992,Glenn,0.08
+1992,Del Norte,0.08
+1992,Mariposa,0.07
+1992,Trinity,0.05
+1992,Colusa,0.05
+1992,Mono,0.04
+1992,Modoc,0.04
+1992,Sierra,0.02
+1992,Alpine,0.01
+1996,Los Angeles,24.06
+1996,San Diego,8.82
+1996,Orange,8.63
+1996,Santa Clara,5.22
+1996,Alameda,4.61
+1996,San Bernardino,4.13
+1996,Sacramento,4.07
+1996,Riverside,3.91
+1996,Contra Costa,3.52
+1996,San Francisco,2.9
+1996,San Mateo,2.51
+1996,Ventura,2.51
+1996,Fresno,2.08
+1996,Sonoma,1.81
+1996,Kern,1.71
+1996,Santa Barbara,1.5
+1996,San Joaquin,1.45
+1996,Stanislaus,1.17
+1996,Solano,1.17
+1996,Marin,1.16
+1996,Monterey,1.08
+1996,Santa Cruz,1.03
+1996,San Luis Obispo,1.0
+1996,Placer,0.94
+1996,Tulare,0.86
+1996,Butte,0.79
+1996,Shasta,0.63
+1996,El Dorado,0.63
+1996,Yolo,0.58
+1996,Humboldt,0.56
+1996,Napa,0.48
+1996,Merced,0.47
+1996,Nevada,0.43
+1996,Mendocino,0.33
+1996,Madera,0.31
+1996,Kings,0.26
+1996,Imperial,0.26
+1996,Sutter,0.25
+1996,Tuolumne,0.22
+1996,Lake,0.21
+1996,Tehama,0.2
+1996,Siskiyou,0.18
+1996,Calaveras,0.17
+1996,Yuba,0.15
+1996,San Benito,0.14
+1996,Amador,0.14
+1996,Plumas,0.1
+1996,Lassen,0.1
+1996,Glenn,0.09
+1996,Del Norte,0.09
+1996,Mariposa,0.08
+1996,Inyo,0.08
+1996,Trinity,0.06
+1996,Colusa,0.06
+1996,Mono,0.04
+1996,Modoc,0.04
+1996,Sierra,0.02
+1996,Alpine,0.01
+2000,Los Angeles,24.57
+2000,Orange,8.85
+2000,San Diego,8.74
+2000,Santa Clara,5.0
+2000,Alameda,4.51
+2000,San Bernardino,4.15
+2000,Riverside,4.11
+2000,Sacramento,3.93
+2000,Contra Costa,3.48
+2000,San Francisco,2.92
+2000,Ventura,2.58
+2000,San Mateo,2.37
+2000,Fresno,2.01
+2000,Sonoma,1.8
+2000,Kern,1.66
+2000,San Joaquin,1.52
+2000,Santa Barbara,1.41
+2000,Solano,1.2
+2000,Stanislaus,1.17
+2000,Marin,1.12
+2000,Placer,1.07
+2000,Monterey,1.07
+2000,San Luis Obispo,1.0
+2000,Santa Cruz,0.99
+2000,Tulare,0.82
+2000,Butte,0.76
+2000,El Dorado,0.66
+2000,Shasta,0.61
+2000,Yolo,0.56
+2000,Humboldt,0.51
+2000,Napa,0.47
+2000,Merced,0.46
+2000,Nevada,0.43
+2000,Mendocino,0.31
+2000,Madera,0.3
+2000,Imperial,0.26
+2000,Kings,0.26
+2000,Sutter,0.24
+2000,Tuolumne,0.22
+2000,Lake,0.19
+2000,Tehama,0.19
+2000,Siskiyou,0.18
+2000,Calaveras,0.17
+2000,San Benito,0.15
+2000,Yuba,0.15
+2000,Amador,0.14
+2000,Lassen,0.1
+2000,Plumas,0.09
+2000,Inyo,0.08
+2000,Glenn,0.08
+2000,Del Norte,0.08
+2000,Mariposa,0.07
+2000,Mono,0.05
+2000,Trinity,0.05
+2000,Colusa,0.05
+2000,Modoc,0.04
+2000,Sierra,0.02
+2000,Alpine,0.01
+2004,Los Angeles,24.34
+2004,San Diego,9.15
+2004,Orange,8.66
+2004,Santa Clara,4.86
+2004,Alameda,4.52
+2004,Riverside,4.49
+2004,San Bernardino,4.21
+2004,Sacramento,3.85
+2004,Contra Costa,3.32
+2004,San Francisco,2.88
+2004,Ventura,2.52
+2004,San Mateo,2.29
+2004,Fresno,1.99
+2004,Sonoma,1.78
+2004,Kern,1.7
+2004,San Joaquin,1.53
+2004,Santa Barbara,1.37
+2004,Placer,1.23
+2004,Solano,1.2
+2004,Stanislaus,1.17
+2004,Marin,1.09
+2004,San Luis Obispo,1.04
+2004,Monterey,1.0
+2004,Santa Cruz,0.98
+2004,Tulare,0.8
+2004,Butte,0.77
+2004,El Dorado,0.7
+2004,Shasta,0.63
+2004,Yolo,0.58
+2004,Humboldt,0.53
+2004,Merced,0.47
+2004,Napa,0.46
+2004,Nevada,0.43
+2004,Mendocino,0.31
+2004,Madera,0.31
+2004,Imperial,0.28
+2004,Kings,0.26
+2004,Sutter,0.24
+2004,Tuolumne,0.21
+2004,Lake,0.2
+2004,Tehama,0.19
+2004,Calaveras,0.18
+2004,Siskiyou,0.17
+2004,San Benito,0.15
+2004,Yuba,0.15
+2004,Amador,0.14
+2004,Plumas,0.09
+2004,Lassen,0.09
+2004,Glenn,0.08
+2004,Del Norte,0.08
+2004,Mariposa,0.07
+2004,Inyo,0.07
+2004,Trinity,0.05
+2004,Colusa,0.05
+2004,Mono,0.04
+2004,Modoc,0.04
+2004,Sierra,0.02
+2004,Alpine,0.01
+2008,Los Angeles,24.43
+2008,San Diego,9.1
+2008,Orange,8.49
+2008,Santa Clara,4.9
+2008,Riverside,4.77
+2008,Alameda,4.59
+2008,San Bernardino,4.46
+2008,Sacramento,4.0
+2008,Contra Costa,3.34
+2008,San Francisco,2.83
+2008,Ventura,2.51
+2008,San Mateo,2.23
+2008,Fresno,2.01
+2008,Kern,1.72
+2008,Sonoma,1.69
+2008,San Joaquin,1.55
+2008,Santa Barbara,1.29
+2008,Placer,1.28
+2008,Solano,1.19
+2008,Stanislaus,1.19
+2008,Marin,1.03
+2008,San Luis Obispo,0.98
+2008,Monterey,0.96
+2008,Santa Cruz,0.94
+2008,Tulare,0.78
+2008,Butte,0.73
+2008,El Dorado,0.69
+2008,Yolo,0.59
+2008,Shasta,0.59
+2008,Merced,0.47
+2008,Humboldt,0.47
+2008,Napa,0.44
+2008,Nevada,0.41
+2008,Madera,0.31
+2008,Mendocino,0.3
+2008,Imperial,0.29
+2008,Kings,0.26
+2008,Sutter,0.24
+2008,Tuolumne,0.2
+2008,Lake,0.19
+2008,Tehama,0.18
+2008,Calaveras,0.17
+2008,Siskiyou,0.16
+2008,Yuba,0.16
+2008,San Benito,0.15
+2008,Amador,0.14
+2008,Plumas,0.08
+2008,Lassen,0.08
+2008,Del Norte,0.07
+2008,Mariposa,0.07
+2008,Glenn,0.07
+2008,Inyo,0.06
+2008,Trinity,0.05
+2008,Colusa,0.05
+2008,Mono,0.04
+2008,Modoc,0.03
+2008,Sierra,0.01
+2008,Alpine,0.01
+2012,Los Angeles,24.36
+2012,San Diego,9.14
+2012,Orange,8.6
+2012,Riverside,5.08
+2012,Santa Clara,4.93
+2012,Alameda,4.57
+2012,San Bernardino,4.46
+2012,Sacramento,3.96
+2012,Contra Costa,3.36
+2012,San Francisco,2.77
+2012,Ventura,2.51
+2012,San Mateo,2.19
+2012,Fresno,1.99
+2012,Kern,1.7
+2012,Sonoma,1.66
+2012,San Joaquin,1.57
+2012,Placer,1.32
+2012,Santa Barbara,1.26
+2012,Stanislaus,1.19
+2012,Solano,1.17
+2012,Marin,1.03
+2012,San Luis Obispo,0.97
+2012,Monterey,0.95
+2012,Santa Cruz,0.92
+2012,Tulare,0.78
+2012,Butte,0.7
+2012,El Dorado,0.68
+2012,Shasta,0.59
+2012,Yolo,0.57
+2012,Merced,0.48
+2012,Napa,0.44
+2012,Humboldt,0.44
+2012,Nevada,0.4
+2012,Madera,0.31
+2012,Imperial,0.3
+2012,Mendocino,0.27
+2012,Sutter,0.24
+2012,Kings,0.24
+2012,Tuolumne,0.19
+2012,Tehama,0.18
+2012,Lake,0.18
+2012,Calaveras,0.17
+2012,San Benito,0.15
+2012,Siskiyou,0.15
+2012,Yuba,0.15
+2012,Amador,0.14
+2012,Plumas,0.08
+2012,Lassen,0.08
+2012,Del Norte,0.07
+2012,Mariposa,0.07
+2012,Glenn,0.07
+2012,Inyo,0.06
+2012,Colusa,0.05
+2012,Mono,0.04
+2012,Trinity,0.04
+2012,Modoc,0.03
+2012,Sierra,0.01
+2012,Alpine,0.01
+2016,Los Angeles,24.12
+2016,San Diego,9.17
+2016,Orange,8.41
+2016,Riverside,5.28
+2016,Santa Clara,4.94
+2016,Alameda,4.63
+2016,San Bernardino,4.59
+2016,Sacramento,3.95
+2016,Contra Costa,3.32
+2016,San Francisco,2.87
+2016,Ventura,2.5
+2016,San Mateo,2.21
+2016,Fresno,2.02
+2016,Kern,1.71
+2016,Sonoma,1.64
+2016,San Joaquin,1.59
+2016,Placer,1.31
+2016,Santa Barbara,1.26
+2016,Stanislaus,1.23
+2016,Solano,1.18
+2016,Marin,0.99
+2016,San Luis Obispo,0.96
+2016,Monterey,0.94
+2016,Santa Cruz,0.91
+2016,Tulare,0.8
+2016,Butte,0.68
+2016,El Dorado,0.67
+2016,Yolo,0.58
+2016,Shasta,0.57
+2016,Merced,0.5
+2016,Napa,0.43
+2016,Humboldt,0.42
+2016,Nevada,0.39
+2016,Imperial,0.34
+2016,Madera,0.31
+2016,Mendocino,0.27
+2016,Sutter,0.24
+2016,Kings,0.24
+2016,Tuolumne,0.18
+2016,Tehama,0.17
+2016,Calaveras,0.17
+2016,Lake,0.17
+2016,San Benito,0.16
+2016,Yuba,0.16
+2016,Siskiyou,0.14
+2016,Amador,0.13
+2016,Lassen,0.08
+2016,Plumas,0.07
+2016,Del Norte,0.07
+2016,Glenn,0.07
+2016,Mariposa,0.06
+2016,Inyo,0.06
+2016,Colusa,0.05
+2016,Mono,0.04
+2016,Trinity,0.04
+2016,Modoc,0.03
+2016,Sierra,0.01
+2016,Alpine,0.0
+2020,Los Angeles,24.35
+2020,San Diego,9.15
+2020,Orange,8.69
+2020,Riverside,5.69
+2020,Santa Clara,4.86
+2020,San Bernardino,4.8
+2020,Alameda,4.42
+2020,Sacramento,4.1
+2020,Contra Costa,3.32
+2020,San Francisco,2.53
+2020,Ventura,2.41
+2020,San Mateo,2.14
+2020,Fresno,2.08
+2020,Kern,1.74
+2020,San Joaquin,1.65
+2020,Sonoma,1.53
+2020,Placer,1.34
+2020,Stanislaus,1.23
+2020,Solano,1.18
+2020,Santa Barbara,1.15
+2020,Monterey,0.94
+2020,San Luis Obispo,0.91
+2020,Marin,0.89
+2020,Tulare,0.84
+2020,Santa Cruz,0.83
+2020,El Dorado,0.66
+2020,Butte,0.58
+2020,Yolo,0.56
+2020,Shasta,0.53
+2020,Merced,0.52
+2020,Napa,0.41
+2020,Humboldt,0.4
+2020,Nevada,0.37
+2020,Imperial,0.32
+2020,Madera,0.31
+2020,Mendocino,0.25
+2020,Kings,0.25
+2020,Sutter,0.24
+2020,Lake,0.17
+2020,Tuolumne,0.17
+2020,Yuba,0.17
+2020,Calaveras,0.16
+2020,San Benito,0.16
+2020,Tehama,0.16
+2020,Amador,0.13
+2020,Siskiyou,0.13
+2020,Del Norte,0.07
+2020,Lassen,0.07
+2020,Plumas,0.06
+2020,Mariposa,0.06
+2020,Glenn,0.06
+2020,Inyo,0.05
+2020,Colusa,0.05
+2020,Mono,0.04
+2020,Trinity,0.04
+2020,Modoc,0.02
+2020,Sierra,0.01
+2020,Alpine,0.0
